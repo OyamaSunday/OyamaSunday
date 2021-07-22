@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @OyamaSunday
-- 👀 I’m interested in ...
+- 👀 I’m interested in data science
 - 🌱 I’m currently learning Python language
-- 💞️ I’m looking to collaborate on data science
+- 💞️ I’m looking to collaborate on proffering solutions where needed
 - 📫 How to reach me sundayokora01@gmail.com
 
 <!---
